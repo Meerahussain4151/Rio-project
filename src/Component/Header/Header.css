@@ -1,0 +1,17 @@
+@media (max-width:1050px) {
+    .header{
+        height: 50px;
+        width: auto;
+    }
+}
+@media (max-width:750px) {
+    .headercontents{
+        max-width: 55%;
+    }
+    .headercontentsp{
+        display: none ;
+    }
+    .headercontentbutton{
+        padding: 2vw 4vw;
+    }
+}
